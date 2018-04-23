@@ -1,5 +1,6 @@
-
 # react-native-camera-kit
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkumarchinnasamy%2Freact-native-camera-kit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkumarchinnasamy%2Freact-native-camera-kit?ref=badge_shield)
+
 
 Native camera control.
 
@@ -228,3 +229,6 @@ Want/Need QR Code support embed in this package, please vote [HERE](https://gith
 The MIT License.
 
 See [LICENSE](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkumarchinnasamy%2Freact-native-camera-kit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkumarchinnasamy%2Freact-native-camera-kit?ref=badge_large)
